@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>order-prod without tax-tax selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78877e4f-5fd5-4153-bbfa-d3b0ecc51738</testCaseGuid>
+</TestCaseEntity>
