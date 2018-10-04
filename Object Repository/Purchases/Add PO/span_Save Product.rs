@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save Product</name>
+   <tag></tag>
+   <elementGuidId>296ee35c-1342-4049-8934-3d2dd96b4c09</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jd-lang</name>
+      <type>Main</type>
+      <value>c_saveProd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>productCreationMode!='edit'&amp;&amp;moduleType=='product'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-isolate-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save Product</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jdAddProduct&quot;)/div[@class=&quot;modal-vertical-alignment-helper&quot;]/div[@class=&quot;modal-dialog pos-rel modal-vertical-align-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body clearfix&quot;]/div[@class=&quot;main-modal-body transparent-scroll&quot;]/div[@class=&quot;right-content-section tax-info-right-section&quot;]/div[@class=&quot;clearfix&quot;]/button[@class=&quot;btn btn-primary pull-right save-on-bottom save-product-btn margin-right-0&quot;]/span[@class=&quot;ng-isolate-scope&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

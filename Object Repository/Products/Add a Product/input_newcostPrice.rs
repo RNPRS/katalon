@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_newcostPrice</name>
+   <tag></tag>
+   <elementGuidId>8caa5be3-c348-44d3-8159-4f1a1d6ac834</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-valid ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>changeInCP(addProductModal)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>addProductModal.costPrice</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>newcostPrice</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jdAddProduct&quot;)/div[@class=&quot;modal-vertical-alignment-helper&quot;]/div[@class=&quot;modal-dialog pos-rel modal-vertical-align-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body clearfix&quot;]/div[@class=&quot;main-modal-body transparent-scroll&quot;]/div[@class=&quot;right-content-section min-height-502 product-info-right-section&quot;]/div[2]/div[3]/div[7]/div[@class=&quot;clearfix pricing-inventory-container marginT5&quot;]/div[@class=&quot;clearfix col-xs-12 jd-padding-0 expiry-shown&quot;]/div[@class=&quot;inventory-info cp-holder&quot;]/input[@class=&quot;form-control ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

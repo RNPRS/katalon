@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test suit" time="77" tests="2" failures="0" errors="0">
+   <testsuite name="test suit" tests="2" failures="0" errors="0" time="77" timestamp="2018-09-18 17:13:48" hostname="rasikama - MUM-SOFT-RASIKA.JDial.com" id="Test Suites/test suit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rasikama\\Katalon Studio\\test\\Reports\\test suit\\20180918_171346"/>
+         <property name="logFiles" value="C:\\Users\\rasikama\\Katalon Studio\\test\\Reports\\test suit\\20180918_171346\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rasikama - MUM-SOFT-RASIKA.JDial.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.6.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="172.29.132.66"/>
+         <property name="sessionId" value="1bbe825b8cc39a5d5c8ac05802c7d840"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Purchase_Order" classname="Test Cases/Purchase_Order" status="PASSED">
+         <system-out><![CDATA[2018-09-18 17:13:49 - [TEST_CASE][PASSED] - Test Cases/Purchase_Order: Test Cases/Purchase_Order
+
+2018-09-18 17:13:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-18 17:13:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-18 17:13:53 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.jdomni.com/' successfully
+
+2018-09-18 17:14:01 - [MESSAGE][PASSED] - Navigate to 'https://www.jdomni.com/' successfully
+
+2018-09-18 17:14:01 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Jd Omni_LoginPage/input_password' is present
+
+2018-09-18 17:14:03 - [MESSAGE][PASSED] - Object 'Object Repository/Jd Omni_LoginPage/input_password' is present
+
+2018-09-18 17:14:03 - [TEST_STEP][PASSED] - setText: Text '9987419837' is set on object 'Object Repository/Jd Omni_LoginPage/input_username'
+
+2018-09-18 17:14:03 - [MESSAGE][PASSED] - Text '9987419837' is set on object 'Object Repository/Jd Omni_LoginPage/input_username'
+
+2018-09-18 17:14:03 - [TEST_STEP][PASSED] - setText: Text 'password' is set on object 'Object Repository/Jd Omni_LoginPage/input_password'
+
+2018-09-18 17:14:03 - [MESSAGE][PASSED] - Text 'password' is set on object 'Object Repository/Jd Omni_LoginPage/input_password'
+
+2018-09-18 17:14:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jd Omni_LoginPage/button_LOGIN' is clicked on
+
+2018-09-18 17:14:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Jd Omni_LoginPage/button_LOGIN' is clicked on
+
+2018-09-18 17:14:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Supplier Login/span_Rasika_Travels' is clicked on
+
+2018-09-18 17:14:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Supplier Login/span_Rasika_Travels' is clicked on
+
+2018-09-18 17:14:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Supplier Login/span_Select Store' is clicked on
+
+2018-09-18 17:14:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Supplier Login/span_Select Store' is clicked on
+
+2018-09-18 17:14:06 - [TEST_STEP][NOT_RUN] - waitForElementPresent: NOT_RUN: waitForElementPresent
+
+2018-09-18 17:14:06 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementPresent
+
+2018-09-18 17:14:06 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Home_Page/notification modal (1)' is visible
+
+2018-09-18 17:14:18 - [MESSAGE][PASSED] - Object 'Object Repository/Home_Page/notification modal (1)' is visible
+
+2018-09-18 17:14:18 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-09-18 17:14:18 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-18 17:14:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/button_NOT NOW' is clicked on
+
+2018-09-18 17:14:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/button_NOT NOW' is clicked on
+
+2018-09-18 17:14:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/side Menu burger' is clicked on
+
+2018-09-18 17:14:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/side Menu burger' is clicked on
+
+2018-09-18 17:14:18 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Home_Page/span_Stock' is visible
+
+2018-09-18 17:14:19 - [MESSAGE][PASSED] - Object 'Object Repository/Home_Page/span_Stock' is visible
+
+2018-09-18 17:14:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/span_Stock' is clicked on
+
+2018-09-18 17:14:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/span_Stock' is clicked on
+
+2018-09-18 17:14:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Rasika_Travels/span_Purchases' is clicked on
+
+2018-09-18 17:14:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Rasika_Travels/span_Purchases' is clicked on
+
+2018-09-18 17:14:19 - [TEST_STEP][PASSED] - waitForElementNotVisible: Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:20 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Purchases Landing/div_Add Purchase' is clicked on
+
+2018-09-18 17:14:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Purchases Landing/div_Add Purchase' is clicked on
+
+2018-09-18 17:14:20 - [TEST_STEP][PASSED] - setText: Text 'rasika' is set on object 'Object Repository/Add Purchase Order/Search Supplier field'
+
+2018-09-18 17:14:23 - [MESSAGE][PASSED] - Text 'rasika' is set on object 'Object Repository/Add Purchase Order/Search Supplier field'
+
+2018-09-18 17:14:23 - [TEST_STEP][PASSED] - waitForElementNotVisible: Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:23 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:23 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add Purchase Order/supplier Suggestion ' is visible
+
+2018-09-18 17:14:24 - [MESSAGE][PASSED] - Object 'Object Repository/Add Purchase Order/supplier Suggestion ' is visible
+
+2018-09-18 17:14:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/supplier Suggestion ' is clicked on
+
+2018-09-18 17:14:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/supplier Suggestion ' is clicked on
+
+2018-09-18 17:14:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/cross iocn of select prod-supp' is clicked on
+
+2018-09-18 17:14:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/cross iocn of select prod-supp' is clicked on
+
+2018-09-18 17:14:24 - [TEST_STEP][PASSED] - setText: Text 'mango' is set on object 'Object Repository/Add Purchase Order/input_searchTermId'
+
+2018-09-18 17:14:24 - [MESSAGE][PASSED] - Text 'mango' is set on object 'Object Repository/Add Purchase Order/input_searchTermId'
+
+2018-09-18 17:14:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/p_mango ( l - blue ) -' is clicked on
+
+2018-09-18 17:14:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/p_mango ( l - blue ) -' is clicked on
+
+2018-09-18 17:14:25 - [TEST_STEP][PASSED] - setText: Text 'new products' is set on object 'Object Repository/Add Purchase Order/input_searchTermId'
+
+2018-09-18 17:14:25 - [MESSAGE][PASSED] - Text 'new products' is set on object 'Object Repository/Add Purchase Order/input_searchTermId'
+
+2018-09-18 17:14:25 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add Purchase Order/li_Create New Product new prod' is visible
+
+2018-09-18 17:14:26 - [MESSAGE][PASSED] - Object 'Object Repository/Add Purchase Order/li_Create New Product new prod' is visible
+
+2018-09-18 17:14:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/li_Create New Product new prod' is clicked on
+
+2018-09-18 17:14:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/li_Create New Product new prod' is clicked on
+
+2018-09-18 17:14:26 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/create new product' is visible
+
+2018-09-18 17:14:27 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/create new product' is visible
+
+2018-09-18 17:14:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/create new product' is clicked on
+
+2018-09-18 17:14:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/create new product' is clicked on
+
+2018-09-18 17:14:27 - [TEST_STEP][PASSED] - setText: Text 'others' is set on object 'Object Repository/Add Purchase Order/input_inputCatSearchTerm'
+
+2018-09-18 17:14:28 - [MESSAGE][PASSED] - Text 'others' is set on object 'Object Repository/Add Purchase Order/input_inputCatSearchTerm'
+
+2018-09-18 17:14:28 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/category_suggestions' is visible
+
+2018-09-18 17:14:28 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/category_suggestions' is visible
+
+2018-09-18 17:14:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/category_suggestions' is clicked on
+
+2018-09-18 17:14:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/category_suggestions' is clicked on
+
+2018-09-18 17:14:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/span_Save Product' is clicked on
+
+2018-09-18 17:14:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/span_Save Product' is clicked on
+
+2018-09-18 17:14:28 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Add Purchase Order/purchase qty' is clickable
+
+2018-09-18 17:14:29 - [MESSAGE][PASSED] - Object 'Object Repository/Add Purchase Order/purchase qty' is clickable
+
+2018-09-18 17:14:29 - [TEST_STEP][PASSED] - clearText: Text of object 'Object Repository/Add Purchase Order/purchase qty' is cleared
+
+2018-09-18 17:14:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/Add Purchase Order/purchase qty' is cleared
+
+2018-09-18 17:14:29 - [TEST_STEP][PASSED] - setText: Text '10' is set on object 'Object Repository/Add Purchase Order/purchase qty'
+
+2018-09-18 17:14:29 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/Add Purchase Order/purchase qty'
+
+2018-09-18 17:14:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add Purchase Order/button_Save' is clicked on
+
+2018-09-18 17:14:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Add Purchase Order/button_Save' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Add a Product" classname="Test Cases/Add a Product" status="PASSED">
+         <system-out><![CDATA[2018-09-18 17:14:29 - [TEST_CASE][PASSED] - Test Cases/Add a Product: Test Cases/Add a Product
+
+2018-09-18 17:14:29 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-18 17:14:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-18 17:14:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-18 17:14:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.jdomni.com/' successfully
+
+2018-09-18 17:14:40 - [MESSAGE][PASSED] - Navigate to 'https://www.jdomni.com/' successfully
+
+2018-09-18 17:14:40 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Jd Omni_LoginPage/input_password' is present
+
+2018-09-18 17:14:41 - [MESSAGE][PASSED] - Object 'Object Repository/Jd Omni_LoginPage/input_password' is present
+
+2018-09-18 17:14:41 - [TEST_STEP][PASSED] - setText: Text '9987419837' is set on object 'Object Repository/Jd Omni_LoginPage/input_username'
+
+2018-09-18 17:14:41 - [MESSAGE][PASSED] - Text '9987419837' is set on object 'Object Repository/Jd Omni_LoginPage/input_username'
+
+2018-09-18 17:14:41 - [TEST_STEP][PASSED] - setText: Text 'password' is set on object 'Object Repository/Jd Omni_LoginPage/input_password'
+
+2018-09-18 17:14:41 - [MESSAGE][PASSED] - Text 'password' is set on object 'Object Repository/Jd Omni_LoginPage/input_password'
+
+2018-09-18 17:14:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jd Omni_LoginPage/button_LOGIN' is clicked on
+
+2018-09-18 17:14:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Jd Omni_LoginPage/button_LOGIN' is clicked on
+
+2018-09-18 17:14:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Supplier Login/span_Rasika_Travels' is clicked on
+
+2018-09-18 17:14:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Supplier Login/span_Rasika_Travels' is clicked on
+
+2018-09-18 17:14:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Supplier Login/span_Select Store' is clicked on
+
+2018-09-18 17:14:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Supplier Login/span_Select Store' is clicked on
+
+2018-09-18 17:14:43 - [TEST_STEP][NOT_RUN] - waitForAlert: NOT_RUN: waitForAlert
+
+2018-09-18 17:14:43 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForAlert
+
+2018-09-18 17:14:43 - [TEST_STEP][NOT_RUN] - dismissAlert: NOT_RUN: dismissAlert
+
+2018-09-18 17:14:43 - [MESSAGE][NOT_RUN] - NOT_RUN: dismissAlert
+
+2018-09-18 17:14:43 - [TEST_STEP][NOT_RUN] - acceptAlert: NOT_RUN: acceptAlert
+
+2018-09-18 17:14:43 - [MESSAGE][NOT_RUN] - NOT_RUN: acceptAlert
+
+2018-09-18 17:14:43 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent: NOT_RUN: waitForElementNotPresent
+
+2018-09-18 17:14:43 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent
+
+2018-09-18 17:14:43 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Home_Page/notification modal (1)' is present
+
+2018-09-18 17:14:50 - [MESSAGE][PASSED] - Object 'Object Repository/Home_Page/notification modal (1)' is present
+
+2018-09-18 17:14:50 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Home_Page/notification modal (1)' is visible
+
+2018-09-18 17:14:55 - [MESSAGE][PASSED] - Object 'Object Repository/Home_Page/notification modal (1)' is visible
+
+2018-09-18 17:14:55 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-09-18 17:14:55 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-18 17:14:55 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-09-18 17:14:55 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-09-18 17:14:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/button_NOT NOW' is clicked on
+
+2018-09-18 17:14:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/button_NOT NOW' is clicked on
+
+2018-09-18 17:14:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/side Menu burger' is clicked on
+
+2018-09-18 17:14:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/side Menu burger' is clicked on
+
+2018-09-18 17:14:55 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Home_Page/span_Stock' is visible
+
+2018-09-18 17:14:56 - [MESSAGE][PASSED] - Object 'Object Repository/Home_Page/span_Stock' is visible
+
+2018-09-18 17:14:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/span_Stock' is clicked on
+
+2018-09-18 17:14:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/span_Stock' is clicked on
+
+2018-09-18 17:14:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Home_Page/span_Products' is clicked on
+
+2018-09-18 17:14:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Home_Page/span_Products' is clicked on
+
+2018-09-18 17:14:56 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-09-18 17:14:56 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-18 17:14:56 - [TEST_STEP][PASSED] - waitForElementNotVisible: Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:59 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/landingPageLoader' is NOT visible
+
+2018-09-18 17:14:59 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-09-18 17:14:59 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-09-18 17:14:59 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/div_Add New Product' is visible
+
+2018-09-18 17:15:00 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/div_Add New Product' is visible
+
+2018-09-18 17:15:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/div_Add New Product' is clicked on
+
+2018-09-18 17:15:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/div_Add New Product' is clicked on
+
+2018-09-18 17:15:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/span_Add Product One-by-One' is clicked on
+
+2018-09-18 17:15:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/span_Add Product One-by-One' is clicked on
+
+2018-09-18 17:15:00 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/input_productName' is visible
+
+2018-09-18 17:15:00 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/input_productName' is visible
+
+2018-09-18 17:15:00 - [TEST_STEP][PASSED] - setText: Text 'mango' is set on object 'Object Repository/Add a Product/input_productName'
+
+2018-09-18 17:15:01 - [MESSAGE][PASSED] - Text 'mango' is set on object 'Object Repository/Add a Product/input_productName'
+
+2018-09-18 17:15:01 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/create new product' is visible
+
+2018-09-18 17:15:02 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/create new product' is visible
+
+2018-09-18 17:15:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/create new product' is clicked on
+
+2018-09-18 17:15:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/create new product' is clicked on
+
+2018-09-18 17:15:02 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/product type' is visible
+
+2018-09-18 17:15:02 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/product type' is visible
+
+2018-09-18 17:15:02 - [TEST_STEP][PASSED] - setText: Text 'others' is set on object 'Object Repository/Add a Product/product type'
+
+2018-09-18 17:15:03 - [MESSAGE][PASSED] - Text 'others' is set on object 'Object Repository/Add a Product/product type'
+
+2018-09-18 17:15:03 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/category_suggestions' is visible
+
+2018-09-18 17:15:03 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/category_suggestions' is visible
+
+2018-09-18 17:15:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/category_suggestions' is clicked on
+
+2018-09-18 17:15:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/category_suggestions' is clicked on
+
+2018-09-18 17:15:03 - [TEST_STEP][NOT_RUN] - scrollToElement: NOT_RUN: scrollToElement
+
+2018-09-18 17:15:03 - [MESSAGE][NOT_RUN] - NOT_RUN: scrollToElement
+
+2018-09-18 17:15:03 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Add a Product/input_newQuantity' is visible
+
+2018-09-18 17:15:03 - [MESSAGE][PASSED] - Object 'Object Repository/Add a Product/input_newQuantity' is visible
+
+2018-09-18 17:15:03 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Add a Product/input_newQuantity'
+
+2018-09-18 17:15:04 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Add a Product/input_newQuantity'
+
+2018-09-18 17:15:04 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Add a Product/input_newmrp'
+
+2018-09-18 17:15:04 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Add a Product/input_newmrp'
+
+2018-09-18 17:15:04 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Add a Product/input_form-control ng-valid ng'
+
+2018-09-18 17:15:04 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Add a Product/input_form-control ng-valid ng'
+
+2018-09-18 17:15:04 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Add a Product/input_newcostPrice'
+
+2018-09-18 17:15:05 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Add a Product/input_newcostPrice'
+
+2018-09-18 17:15:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Add a Product/span_Save Product' is clicked on
+
+2018-09-18 17:15:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Add a Product/span_Save Product' is clicked on
+
+2018-09-18 17:15:05 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-18 17:15:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-18 17:13:48 - [TEST_SUITE][PASSED] - test suit: Test Cases/Add a Product]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

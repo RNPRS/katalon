@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SaveContinue</name>
+   <tag></tag>
+   <elementGuidId>a2c1c71c-62bc-40ec-ae74-25f89462c08b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>showCustomerDetails || showAddressDetails</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn jd-btn-primary save-continue-btn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>!(customerForEdit.customerName || customerForEdit.emailAddress || customerForEdit.mobileNumber || customerForEdit.alternativeNumber|| showAddressDetails) || existingCustomerWithSameMobile || existingCustomerWithSameEmail || showErrorMsgOnTop || (addressError || showPinCodeError || emailInvalidError || !isCustomerNameValid || invalidMobile)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>onClickSaveOrContinue()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'loadingBar': showLoader}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Save
+						Continue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addCustomer&quot;)/div[@class=&quot;modal-vertical-alignment-helper&quot;]/div[@class=&quot;modal-dialog modal-vertical-align-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer margin0&quot;]/button[@class=&quot;btn jd-btn-primary save-continue-btn&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

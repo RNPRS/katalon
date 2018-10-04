@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_newmrp</name>
+   <tag></tag>
+   <elementGuidId>6b7cfc90-63ca-42e8-b8f3-3461fa9484d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'text' and @name = 'newmrp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>changeInMRP(addProductModal);changeBulkOnlinePricing()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-valid ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>addProductModal.mrp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>newmrp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'jd-web-validation-error' :errorObj.mrpRqdForBulkPricing}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jdAddProduct&quot;)/div[@class=&quot;modal-vertical-alignment-helper&quot;]/div[@class=&quot;modal-dialog pos-rel modal-vertical-align-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body clearfix&quot;]/div[@class=&quot;main-modal-body transparent-scroll&quot;]/div[@class=&quot;right-content-section min-height-502 product-info-right-section&quot;]/div[2]/div[3]/div[7]/div[@class=&quot;clearfix pricing-inventory-container marginT5&quot;]/div[@class=&quot;clearfix col-xs-12 jd-padding-0 expiry-shown&quot;]/div[@class=&quot;inventory-info&quot;]/input[@class=&quot;form-control ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

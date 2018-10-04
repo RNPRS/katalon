@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_form-control ng-valid ng</name>
+   <tag></tag>
+   <elementGuidId>4f09a4a9-1ea2-465d-9ae0-222f5187270a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;pos-rel selling-price-div&quot;]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'pos-rel selling-price-div']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pos-rel selling-price-div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>addProductModal.sellingPrice</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>variantOption.discoutRuleApplied=0;changeInSP(addProductModal);validateSellingPrice();changeBulkOnlinePricing()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-focus</name>
+      <type>Main</type>
+      <value>validateSellingPrice()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jdAddProduct&quot;)/div[@class=&quot;modal-vertical-alignment-helper&quot;]/div[@class=&quot;modal-dialog pos-rel modal-vertical-align-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body clearfix&quot;]/div[@class=&quot;main-modal-body transparent-scroll&quot;]/div[@class=&quot;right-content-section min-height-502 product-info-right-section&quot;]/div[2]/div[3]/div[7]/div[@class=&quot;clearfix pricing-inventory-container marginT5&quot;]/div[@class=&quot;clearfix col-xs-12 jd-padding-0 expiry-shown&quot;]/div[@class=&quot;inventory-info&quot;]/div[@class=&quot;pos-rel selling-price-div&quot;]/input[@class=&quot;form-control ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
